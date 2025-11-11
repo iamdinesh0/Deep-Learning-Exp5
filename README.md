@@ -34,9 +34,9 @@ STEP 6: Make Predictions and plot the graph with the Actual and Predicted values
 
 **PROGRAM**
 
-**Name:** PALADUGU VENKATA BALAJI
+**Name:** DINESH M
 
-**Register Number:** 2305001024
+**Register Number:** 2305001007
 
 
 ```
